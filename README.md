@@ -2,6 +2,8 @@
 
 Most of these problems are taken from [exercism.io](http://exercism.io) !
 
+![](http://www.arte.tv/sites/fr/olivierpere/files/bon-la-brute-et-le-truand-1966-03-g.jpg)
+
 ## Hello World 
 
 Write a program that greets the user by name, or by saying "Hello,
